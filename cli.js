@@ -53,7 +53,7 @@ const data = {
         .hex("#2b82b2")
         .bold("Geeksrepubliq")}`,
     twitter: chalk.gray("https://twitter.com/") + chalk.cyan("harricodes"),
-    github: chalk.gray("https://github.com/") + chalk.green("harricodes"),
+    github: chalk.gray("https://github.com/") + chalk.green("harri-codes"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("harricodes"),
     web: chalk.cyan("https://harricodes.me"),
     npx: chalk.red("npx") + " " + chalk.white("harricodes"),

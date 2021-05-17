@@ -1,6 +1,6 @@
 {
   "name": "harricodes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A personal card for Harrison Njeru (harricodes)",
   "main": "cli.js",
   "bin": {
